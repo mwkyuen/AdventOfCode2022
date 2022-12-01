@@ -10,5 +10,4 @@ with open('./d1_input.txt', 'r') as input:
             total_calories = 0
         else:
             total_calories += int(val)
-    print(total_calories)
     print(max_elf)
